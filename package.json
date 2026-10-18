@@ -1,0 +1,10 @@
+{
+  "name": "wise-audio-speaker-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for wise-audio-speaker.com, restyled with the Flex Events visual language",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
